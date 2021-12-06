@@ -1,1 +1,2 @@
 hoi tap lam quen voi git
+hoi tap làm quen với git 3
