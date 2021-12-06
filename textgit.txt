@@ -1,2 +1,4 @@
 hoi tap lam quen voi git
 hội tập làm quen với git
+hoi tap lam quen voi git branch2
+hội tập làm quen với git branch2
